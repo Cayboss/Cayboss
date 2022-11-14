@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdulmalik Kolapo 
-- 👀 I’m interested in Data Analytics 
+- 👀 I’m a Data Analyst 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on any projects 
 - 📫 How to reach me - Abdulmalik Kolapo on LinkedIn or caybossmalik@gmail.com 
