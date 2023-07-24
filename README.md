@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abdulmalik Kolapo 
 - 👀 I’m a Data Professional 
-- 🌱 Currently learning DBT
 - 💞️ I’m open to exciting opportunities 
 - 📫 How to reach me - Abdulmalik Kolapo on LinkedIn or caybossmalik@gmail.com 
 
